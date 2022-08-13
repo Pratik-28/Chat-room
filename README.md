@@ -55,5 +55,5 @@ $ cd ../chat-room && index.html
 
 In browser, open [index.html](index.html)
 
-Live Demo of this chat app can be found <a href="https://deepak2107.github.io/chat-room/">here. </a>
+
 <br />
