@@ -54,6 +54,8 @@ $ cd ../chat-room && index.html
 ```
 
 In browser, open [index.html](index.html)
-
+<br/>
+<br/>
+The working demo of the website can be found here: https://pratik-28.github.io/Chat-room/
 
 <br />
